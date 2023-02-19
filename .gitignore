@@ -1,0 +1,8 @@
+.env
+/node_modules
+/.pnp
+.pnp.js
+/client.env
+/api.env
+# testing
+/coverage
